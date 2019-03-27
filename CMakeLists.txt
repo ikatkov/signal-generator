@@ -10,9 +10,6 @@ project(${PROJECT_NAME})
 
 link_directories(lib )
 
-# Define additional source and header files or default arduino sketch files
-# set(${PROJECT_NAME}_SRCS)
-set(${PROJECT_NAME}_HDRS User_Setup.h)
 
 ### Additional static libraries to include in the target.
 # set(${PROJECT_NAME}_LIBS)
